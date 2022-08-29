@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aleguztor/ImageSearchReact/static/css/main.1610f321.css",
+    "main.js": "/aleguztor/ImageSearchReact/static/js/main.0a996891.js",
+    "static/js/787.247aa833.chunk.js": "/aleguztor/ImageSearchReact/static/js/787.247aa833.chunk.js",
+    "index.html": "/aleguztor/ImageSearchReact/index.html",
+    "main.1610f321.css.map": "/aleguztor/ImageSearchReact/static/css/main.1610f321.css.map",
+    "main.0a996891.js.map": "/aleguztor/ImageSearchReact/static/js/main.0a996891.js.map",
+    "787.247aa833.chunk.js.map": "/aleguztor/ImageSearchReact/static/js/787.247aa833.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1610f321.css",
+    "static/js/main.0a996891.js"
+  ]
+}
